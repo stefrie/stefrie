@@ -1,11 +1,9 @@
 ![header](header.png)
 
-## <div align="center">I'm a full-stack developer 👨‍💻 living and working in Seattle. </div>
-
 - 😄 **Pronouns**: she/her/hers
 - 🔭 **I’m currently working on**: updating my GitHub profile 😄 and a couple of personal projects 🤫
-- 🌱 **I’m currently learning**: data structures and algorithms in preparation for All The Whiteboard Interviews! 🌳, 🌳🌳, 🔗+📋, ⬆️⬆️⬆️, ➡️➡️➡️, 📊, #️⃣+🗺️
-- 💬 **Ask me about**: career pivots, Code Fellows boot camp, Seattle tech industry, neurodiversity while coding, neurodiverse parenting, my many houseplants 🌴🌿🎍
+- 🌱 **I’m currently learning**: Tableau, Python, data structures, algorithms
+- 💬 **Ask me about**: career pivots, Code Fellows boot camp, Seattle tech industry, diversity/neurodiversity, my many houseplants 🌴🌿🎍
 - ⚡ **Fun fact**: I don't always follow `<American>`football`</American>`, but when I do, I root for the Cincinnati Bengals. 🐯 WHO DEY!
 
 <br/>
