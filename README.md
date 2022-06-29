@@ -2,7 +2,7 @@
 
 - 😄 **Pronouns**: she/her/hers
 - 🔭 **I’m currently working on**: updating my GitHub profile 😄 and a couple of personal projects 🤫
-- 🌱 **I’m currently learning**: Tableau, Python, data structures, algorithms
+- 🌱 **I’m currently learning**: SQL, Python, data structures, algorithms
 - 💬 **Ask me about**: career pivots, Code Fellows boot camp, Seattle tech industry, diversity/neurodiversity, my many houseplants 🌴🌿🎍
 - ⚡ **Fun fact**: I don't always follow `<American>`football`</American>`, but when I do, I root for the Cincinnati Bengals. 🐯 WHO DEY!
 
